@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* body {
+  background-color: rgb(94, 92, 92);
+} */
+.la-kasal {
+  /* background-color: rgb(143, 20, 20); */
+  /* background: url(/img/hello.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
+  box-shadow: 0 0 3px 0;
+  position: sticky;
+  top: 0;
+}
+.falan {
+  background-color: gray;
+  color: black;
+}
+.text-secondary {
+  color: #000 !important;
+}
+.hello-world {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 0;
+}
